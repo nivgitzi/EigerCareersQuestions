@@ -4,4 +4,4 @@ or a python program which connects to a database in mysql and does the operation
 So I made both ways.
 
 The directory contains the sql tabs (each for: creating the tables, inserting the data, and the query)
-the .py file is a python program which connects to the database
+and the .py file is a python program which connects to the database
